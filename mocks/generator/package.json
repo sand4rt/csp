@@ -1,0 +1,13 @@
+{
+  "name": "@rabobank/csp-generator",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "generate": "node ./index.js"
+  },
+  "dependencies": {
+    "decimal.js": "^10.4.3",
+    "@faker-js/faker": "^7.6.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.packageManager": "pnpm",
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+  
+}

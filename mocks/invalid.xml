@@ -1,0 +1,30 @@
+<records>
+  <record reference="183398">
+    <accountNumber>NL56RABO0149876948</accountNumber>
+    <description>-</description>
+    <startBalance>94.9</startBalance>
+    <mutation>+14.63</mutation>
+    <endBalance>10000000000000000</endBalance>
+  </record>
+  <record reference="183398">
+    <accountNumber>NL56RABO0149876948</accountNumber>
+    <description>-</description>
+    <startBalance>0</startBalance>
+    <mutation>0</mutation>
+    <endBalance>0</endBalance>
+  </record>
+  <record reference="007">
+    <accountNumber></accountNumber>
+    <description>-</description>
+    <startBalance>0</startBalance>
+    <mutation>0</mutation>
+    <endBalance>0</endBalance>
+  </record>
+    <record reference="">
+    <accountNumber>NL56RABO0149876948</accountNumber>
+    <description>-</description>
+    <startBalance>0</startBalance>
+    <mutation>0</mutation>
+    <endBalance>0</endBalance>
+  </record>
+</records>
