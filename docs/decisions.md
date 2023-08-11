@@ -8,7 +8,7 @@ There is a lot of validation to be done in this application because files are be
 
 ### Decision
 
-[Zod](https://zod.dev) is used to describe validation and business rules instead of writing this manually in Plain Old JavaScript (POM). With Zod you write much less code and it will create better types.
+[Zod](https://zod.dev) is used to describe validation and business rules instead of writing this manually in Plain Old JavaScript Objects _(POJO)_. With Zod you write much less code and it will create better types.
 
 ### Consequences
 
